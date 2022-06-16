@@ -5,9 +5,9 @@ date: 2022-06-16
 A simple recipe for making coconut rice, which goes well with a bunch of different sauces.
 
 ## Stats:
-- Time to prepare: 30 minutes
-- Serves: 4
-- Combines well with:
+Time to prepare: 30 minutes  
+Serves: 4  
+Combines well with:  
 
 ## Ingredients:
 - Coconut Milk (400 ML)

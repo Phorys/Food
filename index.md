@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome!"
 ---
 
-I'm glad you are here. I plan to talk about ... Testing...
+The purpose for this is for me to be able to have a single place, where I keep the recipes I like. If anyone else happens to like them as well, that's only an added benefit.

@@ -10,10 +10,10 @@ Serves: 4
 Combines well with:  
 
 ## Ingredients:
-- Coconut Milk (400 ML)
-- Water (3 DL)
+- Coconut Milk (400 ml)
+- Water (3 dl)
 - Salt (0.5 tbsp)
-- Basmati Rice (200 G)
+- Basmati Rice (200 g)
 
 ## Method:
 1. Add water, coconut milk and salt to a small/medium-sized pot.

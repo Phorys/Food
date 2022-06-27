@@ -2,7 +2,7 @@
 title: "Chili Sin Carne"
 date: 2022-06-27
 ---
-A simple recipe for making coconut rice, which goes well with a bunch of different sauces.
+A recipe for making a versatile sauce, which adds a lot of flavour and can be stored easily for days.
 
 ## Stats:
 Time to prepare: 60 minutes  

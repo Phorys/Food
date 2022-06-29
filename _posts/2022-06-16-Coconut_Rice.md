@@ -7,7 +7,7 @@ A simple recipe for making coconut rice, which goes well with a bunch of differe
 ## Stats:
 Time to prepare: 30 minutes  
 Serves: 4  
-Combines well with:  
+Combines well with: [Chili Sin Carne](https://phorys.github.io/Blog/2022/06/27/Chili_Sin_Carne.html)
 
 ## Ingredients:
 - Coconut Milk (400 ml)

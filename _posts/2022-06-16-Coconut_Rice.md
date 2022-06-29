@@ -12,7 +12,7 @@ Combines well with:
 ## Ingredients:
 - Coconut Milk (400 ml)
 - Water (3 dl)
-- Salt (0.5 tbsp)
+- Salt (0.5 tsp)
 - Basmati Rice (200 g)
 
 ## Method:

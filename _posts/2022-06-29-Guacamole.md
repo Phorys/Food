@@ -7,7 +7,7 @@ Make guacamole to mix with all sorts of salats and wraps or even as a dip.
 ## Stats:
 Time to prepare: 10 minutes  
 Serves: 2-4  
-Combines well with:  
+Combines well with: [Halloumi & Honey](https://phorys.github.io/Blog/2022/06/29/Halloumi_With_Honey.html)
 
 ## Ingredients:
 - Avocados (3 pcs)

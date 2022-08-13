@@ -25,6 +25,7 @@ Combines well with: [Coconut Rice](https://phorys.github.io/Blog/2022/06/16/Coco
 - Cinnamon (Crushed) (0.5 tsp)
 - Salt
 - Black pepper
+
 Optional:
 - Coriander (Crushed) (1,5 tsp)
 - Replace 1 bell pepper and 1 onion with 3 carrots

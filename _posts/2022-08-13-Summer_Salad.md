@@ -7,7 +7,7 @@ Make a fast summer salad with a few basic ingredients
 ## Stats:
 Time to prepare: 10 minutes  
 Serves: 4  
-Combines well with: [Vinaigrette](https://phorys.github.io/Blog/2022/07/24/Vinaigrette.html)
+Combines well with: [Vinaigrette](https://phorys.github.io/Food/2022/07/24/Vinaigrette.html)
 
 ## Ingredients:
 - Cherry tomatoes (250 g)

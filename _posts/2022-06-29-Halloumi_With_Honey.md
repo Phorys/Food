@@ -7,7 +7,7 @@ A recipe to marinate halloumi and create a tasty meat alternative to wraps.
 ## Stats:
 Time to prepare: 20 minutes  
 Serves: 2  
-Combines well with: [Guacamole](https://phorys.github.io/Blog/2022/06/29/Guacamole.html)
+Combines well with: [Guacamole](https://phorys.github.io/Food/2022/06/29/Guacamole.html)
 
 ## Ingredients:
 - Halloumi Cheese (1 block (Around 200g))

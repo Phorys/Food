@@ -7,7 +7,7 @@ A recipe for making a versatile sauce, which adds a lot of flavour and can be st
 ## Stats:
 Time to prepare: 60 minutes  
 Serves: 4  
-Combines well with: [Coconut Rice](https://phorys.github.io/Blog/2022/06/16/Coconut_Rice.html)
+Combines well with: [Coconut Rice](https://phorys.github.io/Food/2022/06/16/Coconut_Rice.html)
 
 ## Ingredients:
 - Bell Peppers (2 pieces)

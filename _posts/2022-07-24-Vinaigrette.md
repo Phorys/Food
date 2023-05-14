@@ -7,7 +7,7 @@ A recipe for vinaigrette to mix in with various salads.
 ## Stats:
 Time to prepare: 5 minutes  
 Serves: 4  
-Combines well with: 
+Combines well with: [Vinaigrette](https://phorys.github.io/Food/2022/08/13/Summer_Salad.html)
 
 ## Ingredients:
 - Olive oil (4 tbsp.)

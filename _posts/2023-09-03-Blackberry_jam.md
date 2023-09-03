@@ -17,7 +17,7 @@ Combines well with:
 
 ## Method:
 1. Rinse the berries and add them to a large bowl.
-2. Mash or blend the blackberries in a large bowl.
+2. Mash or blend the blackberries.
 3. Pour the blackberries into a large pot and heat them slowly until the berries are brought to a boil.
 4. Add the sugar and lemon juice and leave it to boil for at least 30 minutes - Stir every ten minutes.
 5. While the jam is cooking, prepare some jam glasses by cleaning them and rinsing them. Once rinsed, fill each of them with boiling water and leave them until the jam is ready.
